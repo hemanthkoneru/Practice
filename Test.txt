@@ -1,8 +1,6 @@
 Hi everyone , this is a test text file
 Hi this is second line pushing from developer machine to remote repo
 Hi this is third line pushing from remote repo to local repo
-
 Hi inserting fourth line
-
 Hi fourth line is being inserted from remote to local repo
 
