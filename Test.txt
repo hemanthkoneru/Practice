@@ -1,1 +1,2 @@
 Hi everyone , this is a test text file
+Hi this is second line pushing from developer machine to remote repo
